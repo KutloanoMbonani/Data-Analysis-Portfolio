@@ -4,11 +4,15 @@ SQL and Power BI.
 
 ### Project 1 - Analysing the Down Jones Industrial Average Index (US30)
 •	Analysed historical stock market data of NASDAQ 100 and Dow Jones 30 using Python.
+
 •	Conducted exploratory data analysis, identifying missing values, and outliers in key features.
+
 •	Applied data transformation techniques to determine high volatility days, trend durations, and 
       conditional probabilities.
+
 •	Visualized insights through various plots, including volatility comparison, conditional probability donut 
       chart, and trend length histograms.
+
 •	Calculated and presented key findings, including most volatile days, average trend durations, and 
       conditional probabilities for trend continuation and day closing probabilities.
 
