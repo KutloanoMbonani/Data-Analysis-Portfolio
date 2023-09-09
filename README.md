@@ -19,18 +19,24 @@ SQL and Power BI.
 ### Project 2 - Descriptive Analysis of the Applications for Home Loans
 •	Exploratory Data Analysis (EDA): Conducted EDA on "ApplicationTrain" dataset using SQL queries, 
       identifying null values and outliers for comprehensive data assessment.
+      
 •	Demographic Insights: Extracted and presented gender distribution, average children per client, and 
       income distribution through SQL calculations, providing key demographic insights.
+      
 •	Income Analysis: Analysed income patterns by categorizing clients into income classes, determining 
       highest average income by gender, occupation, and organization type.
+      
 •	Occupation Insights: Investigated occupation-related trends, including distribution, average children, 
       and upper-income clientele percentage per occupation type, utilizing SQL analysis.
       
 ### Project 3 - Retail Sales Analysis and Data Visualisation
-•     Data Cleaning - Removed duplicates and blank cells, if any. Formatted columns to the appropriate data type.   
+•     Data Cleaning - Removed duplicates and blank cells, if any. Formatted columns to the appropriate data type.  
+
 •     Data Connection - Connected the Excel Workbook to Microsoft Power BI, allowing changes in the workbook to
       reflect in the dashboard.
+      
 •     Data Transformation - Created a few pivot tables in Microsft Excel from the sales dataset.
+
 •     Data Visualisation - Created an interactive sales dashboard showing insight into the data such as trends in sales
       as well as the relevant KPIs for a retail sales store.
 
