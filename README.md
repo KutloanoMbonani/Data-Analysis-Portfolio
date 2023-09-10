@@ -35,7 +35,7 @@ SQL and Power BI.
 •     Data Connection - Connected the Excel Workbook to Microsoft Power BI, allowing changes in the workbook to
       reflect in the dashboard.
       
-•     Data Transformation - Created a few pivot tables in Microsft Excel from the sales dataset.
+•     Data Transformation - Created a few pivot tables in Microsoft Excel from the sales dataset.
 
 •     Data Visualisation - Created an interactive sales dashboard showing insight into the data such as trends in sales
       as well as the relevant KPIs for a retail sales store.
