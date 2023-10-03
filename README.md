@@ -40,6 +40,9 @@ SQL and Power BI.
 •     Data Visualisation - Created an interactive sales dashboard showing insight into the data such as trends in sales
       as well as the relevant KPIs for a retail sales store.
 
+### Project 4 - Strategic Dashboard
+•     Key Performance Indicators: Displayed a number of KPIs and metrics including Total Revenue, 
+
 ### Project 5 - Application of Machine Learning in Credit Risk Default 
 •     Machine Learning Model Development: Developed and implemented machine learning models, including Naive Bayes, Random Forest, and Support Vector Classifiers, for a credit           risk assessment project.
 
