@@ -40,4 +40,17 @@ SQL and Power BI.
 •     Data Visualisation - Created an interactive sales dashboard showing insight into the data such as trends in sales
       as well as the relevant KPIs for a retail sales store.
 
+### Project 5 - Application of Machine Learning in Credit Risk Default 
+•     Machine Learning Model Development: Developed and implemented machine learning models, including Naive Bayes, Random Forest, and Support Vector Classifiers, for a credit           risk assessment project.
+
+•     Data Preprocessing and Feature Engineering: Conducted thorough data preprocessing, including feature binning, one-hot encoding, and binary label encoding, enhancing data           quality for model training.
+
+•     Model Evaluation and Selection: Evaluated model performance and selected the Random Forest Classifier as the optimal model, achieving an accuracy of 82.38% on a test dataset.
+
+•     Continuous Improvement: Demonstrated a commitment to model refinement by proposing improvements, such as exploring alternative scaling methods, dimensionality reduction with 
+      PCA, and feature creation.
+
+•     Data Interpretation and Reporting: Emphasized the importance of model interpretability, contributing to the project's overall success through the exploration of feature 
+      importance and meaningful insights.
+
 
