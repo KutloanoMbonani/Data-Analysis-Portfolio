@@ -29,7 +29,7 @@ SQL and Power BI.
 •	Occupation Insights: Investigated occupation-related trends, including distribution, average children, 
       and upper-income clientele percentage per occupation type, utilizing SQL analysis.
       
-### Project 3 - Retail Sales Analysis and Data Visualisation
+### Project 3 - Retail Sales Dashboard in Power BI
 •     Data Cleaning - Removed duplicates and blank cells, if any. Formatted columns to the appropriate data type.  
 
 •     Data Connection - Connected the Excel Workbook to Microsoft Power BI, allowing changes in the workbook to
@@ -40,7 +40,7 @@ SQL and Power BI.
 •     Data Visualisation - Created an interactive sales dashboard showing insight into the data such as trends in sales
       as well as the relevant KPIs for a retail sales store.
 
-### Project 4 - Strategic Dashboard
+### Project 4 - Strategic Dashboard in Excel
 •     Key Performance Indicators: Displayed a number of KPIs and metrics including Total Revenue, Total Orders, Average Revenue Per Order and Average Quantity Per Order.
 
 •     Data Visualisations: Included a number of bar charts illustrating the top 10 countries and genres that generate the highest revenues.
